@@ -1,0 +1,5 @@
+@font-face {
+  font-family: "LED-Dot-Matrix";
+  src: local("LED-Dot-Matrix"),
+    url('./assets/fonts/LED-Dot-Matrix.ttf')
+}
