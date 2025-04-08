@@ -7,7 +7,7 @@ export const FRIDAY_EVENTS: Event[] = [
     },
     {
         "time": "16:00",
-        "event": "Main Session: Camp Opening"
+        "event": "Main Session: Tap In"
     },
     {
         "time": "17:30",
@@ -19,7 +19,11 @@ export const FRIDAY_EVENTS: Event[] = [
     },
     {
         "time": "19:30",
-        "event": "Good Friday Meditation"
+        "event": "Main Session: sKeynote 1"
+    },
+    {
+        "time": "20:30",
+        "event": "Small Groups"
     },
     {
         "time": "21:30",
@@ -50,11 +54,11 @@ export const SATURDAY_EVENTS: Event[] = [
     },
     {
         "time": "10:30",
-        "event": "Main Session: Keynote 1"
+        "event": "Connection: At the Cross"
     },
     {
-        "time": "11:30",
-        "event": "Small Groups"
+        "time": "12:00",
+        "event": "Free Time"
     },
     {
         "time": "12:30",
@@ -69,12 +73,8 @@ export const SATURDAY_EVENTS: Event[] = [
         "event": "Free Time"
     },
     {
-        "time": "16:00",
+        "time": "16:30",
         "event": "Whole Group Games"
-    },
-    {
-        "time": "17:30",
-        "event": "Evening Prep"
     },
     {
         "time": "18:30",
@@ -82,11 +82,7 @@ export const SATURDAY_EVENTS: Event[] = [
     },
     {
         "time": "19:30",
-        "event": "Evening Activity"
-    },
-    {
-        "time": "20:30",
-        "event": "Main Session: Keynote 2"
+        "event": "Theme night: All Change"
     },
     {
         "time": "21:30",
@@ -122,11 +118,15 @@ export const SUNDAY_EVENTS: Event[] = [
     },
     {
         "time": "10:30",
-        "event": "Main Session: Keynote 3"
+        "event": "Main Session: Keynote 2"
     },
     {
-        "time": "11:30",
+        "time": "11:00",
         "event": "Small Groups"
+    },
+    {
+        "time": "12:00",
+        "event": "Free Time"
     },
     {
         "time": "12:30",
@@ -134,7 +134,7 @@ export const SUNDAY_EVENTS: Event[] = [
     },
     {
         "time": "13:30",
-        "event": "Connect Session"
+        "event": "Connection: Going Deeper"
     },
     {
         "time": "15:30",
@@ -150,11 +150,11 @@ export const SUNDAY_EVENTS: Event[] = [
     },
     {
         "time": "19:30",
-        "event": "Praise & Prayer"
+        "event": "Main Session: Keynote 3"
     },
     {
         "time": "21:30",
-        "event": "Free Time"
+        "event": "Free Time (Optional Worship)"
     },
     {
         "time": "23:00",
@@ -174,15 +174,19 @@ export const MONDAY_EVENTS: Event[] = [
     },
     {
         "time": "09:00",
+        "event": "Icebreaker"
+    },
+    {
+        "time": "09:30",
         "event": "Worship & Devotion"
     },
     {
-        "time": "10:00",
-        "event": "Main Session: Keynote 4"
+        "time": "10:30",
+        "event": "Small Groups"
     },
     {
-        "time": "11:00",
-        "event": "Small Groups"
+        "time": "12:00",
+        "event": "Free Time"
     },
     {
         "time": "12:30",
@@ -190,7 +194,7 @@ export const MONDAY_EVENTS: Event[] = [
     },
     {
         "time": "13:30",
-        "event": "Camp Closing Session"
+        "event": "Main Session: Tap Out"
     },
     {
         "time": "15:30",
